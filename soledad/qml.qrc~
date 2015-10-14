@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Module_0_Functions.qml</file>
+        <file>Module_0.qml</file>
+        <file>Module_1_FrontPage_Message.qml</file>
+        <file>Module_1_FrontPage.qml</file>
+        <file>Module_1.qml</file>
+        <file>Module_2.qml</file>
+        <file>Picture_and_Introduction.qml</file>
+        <file>Title.qml</file>
+        <file>image</file>
+        <file>qtquick1applicationviewer/qtquick1applicationviewer.cpp</file>
+        <file>qtquick1applicationviewer/qtquick1applicationviewer.h</file>
+        <file>serial/posix_qextserialport.cpp</file>
+        <file>serial/posix_qextserialport.h</file>
+        <file>serial/qextserialbase.cpp</file>
+        <file>serial/qextserialbase.h</file>
+        <file>serial/qextserialport.cpp</file>
+        <file>serial/qextserialport.h</file>
+        <file>database.cpp</file>
+        <file>database.h</file>
+        <file>gprsthread.cpp</file>
+        <file>gprsthread.h</file>
+        <file>login.cpp</file>
+        <file>login.h</file>
+        <file>main.cpp</file>
+        <file>rfiddatabase.cpp</file>
+        <file>rfiddatabase.h</file>
+        <file>rfidthread.cpp</file>
+        <file>rfidthread.h</file>
+        <file>sensorthread.cpp</file>
+        <file>sensorthread.h</file>
+    </qresource>
+</RCC>
